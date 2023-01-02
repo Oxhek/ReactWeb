@@ -1,0 +1,23 @@
+.Changelog
+{
+  position: absolute;
+  display: block;
+  top: 55px;
+  left: 15%;
+  width: 65vw;
+  height: 80vh;
+  border: 1px solid #404040;
+  border-radius: 50px;
+  background: url(/anders-jilden-AkUR27wtaxs-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  overflow-x: hidden;
+  overflow-y: scroll hidden;
+
+}
+
+[type="separator"]
+{
+    border: 1px solid #fff;
+}

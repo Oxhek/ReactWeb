@@ -1,0 +1,14 @@
+.errorIcon{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    left: -200px;
+}
+.error-message
+{
+    box-sizing: border-box;
+    position: relative;
+    top : -230px;
+    left: 100px
+
+}
